@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/canopen_402/lib/pkgconfig/canopen_402.pc

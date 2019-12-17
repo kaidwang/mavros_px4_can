@@ -1,0 +1,7 @@
+[01m[K/home/nvidia/kd_px4_can/src/offboard/src/offboard_node.cpp:[m[K In function '[01m[Kint main(int, char**)[m[K':
+[01m[K/home/nvidia/kd_px4_can/src/offboard/src/offboard_node.cpp:116:21:[m[K [01;31m[Kerror: [m[K'[01m[Kclass ros::Publisher[m[K' has no member named '[01m[KPublish[m[K'
+        send_can_pub.Publish(can_msg);
+[01;32m[K                     ^[m[K
+make[2]: *** [CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/offboard_node.dir/all] Error 2
+make: *** [all] Error 2

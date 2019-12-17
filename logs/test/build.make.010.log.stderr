@@ -1,0 +1,4 @@
+/home/nvidia/kd_px4_can/src/test/src/test.cpp: In function ‘int main()’:
+/home/nvidia/kd_px4_can/src/test/src/test.cpp:84:44: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+         printf("length:%d",sizeof(frame[1]));
+                                            ^

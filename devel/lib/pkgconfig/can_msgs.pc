@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/can_msgs/lib/pkgconfig/can_msgs.pc

@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/install
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/kd_px4_can/install/lib 
+Requires: 

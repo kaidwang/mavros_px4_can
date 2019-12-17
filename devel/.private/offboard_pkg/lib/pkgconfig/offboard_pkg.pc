@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/devel/.private/offboard_pkg
+
+Name: offboard_pkg
+Description: Description of offboard_pkg
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib 
+Requires: 

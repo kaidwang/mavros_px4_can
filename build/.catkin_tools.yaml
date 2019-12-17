@@ -1,0 +1,6 @@
+devel_space: /home/nvidia/kd_px4_can/devel
+install: false
+install_space: /home/nvidia/kd_px4_can/install
+profile: default
+source_space: /home/nvidia/kd_px4_can/src
+workspace: /home/nvidia/kd_px4_can

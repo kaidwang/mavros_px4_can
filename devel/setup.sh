@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/catkin_tools_prebuild/setup.sh

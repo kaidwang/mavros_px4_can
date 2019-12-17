@@ -1,0 +1,6 @@
+/usr/lib/gcc/aarch64-linux-gnu/5/../../../aarch64-linux-gnu/crt1.o: In function `_start':
+(.text+0x30): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+make[2]: *** [/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_pkg_node] Error 1
+make[1]: *** [CMakeFiles/offboard_pkg_node.dir/all] Error 2
+make: *** [all] Error 2

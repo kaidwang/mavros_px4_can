@@ -1,0 +1,7 @@
+/home/nvidia/kd_px4_can/src/offboard/src/offboard_node.cpp: In function ‘int main(int, char**)’:
+/home/nvidia/kd_px4_can/src/offboard/src/offboard_node.cpp:81:31: error: ‘pose_can’ was not declared in this scope
+         local_pos_pub.publish(pose_can);
+                               ^
+make[2]: *** [CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/offboard_node.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake

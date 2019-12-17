@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="mavlink" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="uAvionix.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 uAvionix.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="standard.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 standard.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="uAvionix.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 uAvionix.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="matrixpilot.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 matrixpilot.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="common.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 common.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="paparazzi.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 paparazzi.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="slugs.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 slugs.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="slugs.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 slugs.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ASLUAV.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 ASLUAV.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="autoquad.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 autoquad.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="icarous.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 icarous.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ardupilotmega.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 ardupilotmega.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="common.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 common.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ardupilotmega.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 ardupilotmega.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ualberta.xml-v1.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 ualberta.xml-v1.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ASLUAV.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 ASLUAV.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="paparazzi.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 paparazzi.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="autoquad.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 autoquad.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="icarous.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 icarous.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="matrixpilot.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 matrixpilot.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ualberta.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 ualberta.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="standard.xml-v2.0">
+         <Option working_dir="/home/nvidia/kd_px4_can/build/mavlink" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 standard.xml-v2.0" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nvidia/kd_px4_can/build/mavlink/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/nvidia/kd_px4_can/src/mavlink/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nvidia/kd_px4_can/src/mavlink/config.h.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nvidia/kd_px4_can/src/mavlink/config.cmake.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nvidia/kd_px4_can/src/mavlink/pc.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nvidia/kd_px4_can/src/mavlink/COPYING">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

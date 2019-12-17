@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/can_msgs/share/roseus/ros/can_msgs/manifest.l

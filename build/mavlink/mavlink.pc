@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/devel
+exec_prefix=/home/nvidia/kd_px4_can/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2019.11.11
+Cflags: -I${includedir}

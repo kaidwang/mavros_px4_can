@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/kd_px4_can/devel/.private/test_mavros/setup.sh

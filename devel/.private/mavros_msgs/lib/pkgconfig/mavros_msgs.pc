@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/devel/.private/mavros_msgs
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 0.33.3
+Cflags: -I/home/nvidia/kd_px4_can/devel/.private/mavros_msgs/include -I/home/nvidia/kd_px4_can/src/mavros/mavros_msgs/include
+Libs: -L/home/nvidia/kd_px4_can/devel/.private/mavros_msgs/lib 
+Requires: geographic_msgs geometry_msgs message_runtime sensor_msgs std_msgs

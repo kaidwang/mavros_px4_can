@@ -1,0 +1,12 @@
+CMake Error at /home/nvidia/kd_px4_can/src/offboard_pkg/CMakeLists.txt:137 (add_executable):
+  Cannot find source file:
+
+    src/offboard_pkg_node.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: offboard_pkg_node
+CMake Error: Cannot determine link language for target "offboard_pkg_node".
+make: *** [cmake_check_build_system] Error 1

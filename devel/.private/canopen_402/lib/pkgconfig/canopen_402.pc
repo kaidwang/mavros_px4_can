@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/devel/.private/canopen_402
+
+Name: canopen_402
+Description: Description of canopen_402
+Version: 0.8.2
+Cflags: -I/home/nvidia/kd_px4_can/src/ros_canopen/canopen_402/include -I/usr/include
+Libs: -L/home/nvidia/kd_px4_can/devel/.private/canopen_402/lib -lcanopen_402
+Requires: canopen_master

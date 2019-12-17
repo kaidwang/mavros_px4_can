@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/canopen_chain_node/share/roseus/ros/canopen_chain_node/manifest.l

@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/socketcan_bridge/lib/pkgconfig/socketcan_bridge.pc

@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib/pkgconfig/offboard_pkg.pc

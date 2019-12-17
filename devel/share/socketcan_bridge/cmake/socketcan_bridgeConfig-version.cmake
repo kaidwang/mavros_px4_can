@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/socketcan_bridge/share/socketcan_bridge/cmake/socketcan_bridgeConfig-version.cmake

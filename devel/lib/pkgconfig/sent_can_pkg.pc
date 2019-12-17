@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/sent_can_pkg/lib/pkgconfig/sent_can_pkg.pc

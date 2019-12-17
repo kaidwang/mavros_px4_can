@@ -1,0 +1,8 @@
+mavros/mavros_extras
+/home/nvidia/kd_px4_can/devel/.private/mavros_extras/cmake.lock /home/nvidia/kd_px4_can/devel/./cmake.lock
+/home/nvidia/kd_px4_can/devel/.private/mavros_extras/lib/libmavros_extras.so /home/nvidia/kd_px4_can/devel/lib/libmavros_extras.so
+/home/nvidia/kd_px4_can/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/nvidia/kd_px4_can/devel/lib/mavros_extras/servo_state_publisher
+/home/nvidia/kd_px4_can/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/nvidia/kd_px4_can/devel/lib/mavros_extras/visualization
+/home/nvidia/kd_px4_can/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/nvidia/kd_px4_can/devel/lib/pkgconfig/mavros_extras.pc
+/home/nvidia/kd_px4_can/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/nvidia/kd_px4_can/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/nvidia/kd_px4_can/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/nvidia/kd_px4_can/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake

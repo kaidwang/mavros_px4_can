@@ -1,0 +1,27 @@
+Not searching for unused variables given on the command line.
+-- Package version: 2019.11.11
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/ASLUAV.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/ardupilotmega.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/autoquad.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/common.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/icarous.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/matrixpilot.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/paparazzi.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/slugs.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/standard.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/uAvionix.xml
+-- processing v1.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/ualberta.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/ASLUAV.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/ardupilotmega.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/autoquad.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/common.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/icarous.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/matrixpilot.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/paparazzi.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/slugs.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/standard.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/uAvionix.xml
+-- processing v2.0: /home/nvidia/kd_px4_can/src/mavlink/message_definitions/v1.0/ualberta.xml
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nvidia/kd_px4_can/build/mavlink

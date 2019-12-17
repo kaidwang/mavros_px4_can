@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/install
+
+Name: can_msgs
+Description: Description of can_msgs
+Version: 0.8.2
+Cflags: -I/home/nvidia/kd_px4_can/install/include
+Libs: -L/home/nvidia/kd_px4_can/install/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,6 @@
+offboard_pkg
+/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/cmake.lock /home/nvidia/kd_px4_can/devel/./cmake.lock
+/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_node /home/nvidia/kd_px4_can/devel/lib/offboard_pkg/offboard_node
+/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib/pkgconfig/offboard_pkg.pc /home/nvidia/kd_px4_can/devel/lib/pkgconfig/offboard_pkg.pc
+/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/share/offboard_pkg/cmake/offboard_pkgConfig.cmake /home/nvidia/kd_px4_can/devel/share/offboard_pkg/cmake/offboard_pkgConfig.cmake
+/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/share/offboard_pkg/cmake/offboard_pkgConfig-version.cmake /home/nvidia/kd_px4_can/devel/share/offboard_pkg/cmake/offboard_pkgConfig-version.cmake

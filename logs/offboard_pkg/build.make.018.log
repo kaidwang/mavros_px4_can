@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target offboard_pkg_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/offboard_pkg_node.dir/src/offboard_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_pkg_node[0m
+/usr/lib/gcc/aarch64-linux-gnu/5/../../../aarch64-linux-gnu/crt1.o: In function `_start':
+(.text+0x30): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+CMakeFiles/offboard_pkg_node.dir/build.make:113: recipe for target '/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_pkg_node' failed
+make[2]: *** [/home/nvidia/kd_px4_can/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_pkg_node] Error 1
+make[1]: *** [CMakeFiles/offboard_pkg_node.dir/all] Error 2
+CMakeFiles/Makefile2:355: recipe for target 'CMakeFiles/offboard_pkg_node.dir/all' failed
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

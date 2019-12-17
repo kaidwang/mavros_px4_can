@@ -1,0 +1,1 @@
+/home/nvidia/kd_px4_can/devel/.private/socketcan_interface/share/socketcan_interface/cmake/socketcan_interfaceConfig-version.cmake

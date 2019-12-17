@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/devel/.private/sent_can_pkg
+
+Name: sent_can_pkg
+Description: Description of sent_can_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/kd_px4_can/devel/.private/sent_can_pkg/lib 
+Requires: 

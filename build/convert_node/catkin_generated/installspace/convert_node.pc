@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kd_px4_can/install
+
+Name: convert_node
+Description: Description of convert_node
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/nvidia/kd_px4_can/install/lib 
+Requires: 
